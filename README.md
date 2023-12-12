@@ -4,11 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamish-bin-naeem&label=Profile%20views&color=0e75b6&style=flat" alt="aamish-bin-naeem" /> </p>
 
-- 🔭 I’m currently working on **Pacman**
-
 - 🌱 I’m currently learning **CPP**
-
-- 👯 I’m looking to collaborate on **Pacman**
 
 - 💬 Ask me about **Html, Css, Python**
 
